@@ -1,0 +1,162 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 1000px;
+    height: 780px;
+    opacity: 0.3px;
+    background-image: url('./img/Rectangle\ 3.png');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.conteiner{ 
+    width: 669px;
+    height: 19px;
+    top: 40px;
+    margin-left: 521px;
+    justify-content: end;
+    position:absolute;
+    opacity: 0px;
+    display: flex;
+
+}
+
+.haeder-nav{
+    color: white; 
+    padding: 10px;  
+    border-radius: 5px; 
+    margin-bottom: 15px;
+    transition: 0.3s;
+    display: flex;
+    column-gap: 15px;
+    word-spacing: 5px; /* Увеличение расстояния между словами */
+    font-size: 15px;
+}
+
+img{
+    height: 55px;
+    width: 83px;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+
+.h1{
+    width: 1300px;
+    height: 400px;
+}
+
+.btn{
+    background-color: black;
+    display: flex;
+    top: 280px;
+    margin-left: 500px;
+    padding: 8px 72px 8px 72px;
+    position: absolute;
+    gap: 5px;
+    font-size: 25px;
+    line-height: 45px;
+    color: #fff;
+}
+
+.From{
+    width: 899px;
+    height: 266px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 185px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+   
+
+
+
+.lease{
+    width: 1210px;
+    height: 600px;
+    margin-top: 800px;
+    gap: 0px;
+    opacity: 0px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: blue;
+}
+
+.texth1{
+    width: 521px;
+    height: 58px;
+    margin-top: 450px;
+    margin-left: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.8px;
+    text-align: left;
+}
+
+.space{
+    justify-content: space-around;
+        
+}
+
+.top1{
+    width: 270px;
+    height: 323px;
+    margin-top: 150px;
+    margin-left: 80px;
+    display: flex;
+
+}
+
+.imgi{
+    width: 150px;
+    height: 150px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    margin-top: -100px;
+    margin-left: 55px;
+}
+
+.textyre{
+    width: 270px;
+    height: 323px;
+    top: 1338px;
+    left: 360px;
+    gap: 30px;
+    opacity: 0px;
+}
+    
+.dh{
+    width: 140px;
+    height: 29px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 80px;
+    margin-left: -140px;
+
+}
+
+.dm{
+    width: 270px;
+    height: 120px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 20px;
+    margin-left: -210px;
+}
